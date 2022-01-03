@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NatashaAC
+- 👋 Hi, I’m Natasha Chambers
 - 👀 I’m interested in web development and game development
 - 🌱 I’m currently learning web development.
 
